@@ -1,0 +1,150 @@
+{
+  "Navbar": {
+    "Home": "Home",
+    "Features": "Features",
+    "Contact Us": "Contact Us",
+    "FAQ": "FAQ"
+  },
+  "Hero": {
+    "title": "At Mizan",
+    "subtitle": "You can take control of your financial future",
+    "description": "We help you understand your financial health with detailed insights and easy-to-use tools.",
+    "emailPlaceholder": "Enter your email and join the waiting list.",
+    "send": "Send",
+    "authorizedBy": "Authorized by"
+  },
+  "CTA": {
+    "title": "Take control of your money today!",
+    "subtitle": "Download the app now and start investing and managing your money smarter, faster and better - at your fingertips!",
+    "downloadNow": "Download Now",
+    "getIos": "Get it on iOS",
+    "getAndroid": "Get it on Android"
+  },
+  "features": {
+    "f1Title": "Effortlessly track your finances",
+    "f1Description": "Stay in control with real-time updates on your net worth, assets, and liabilities. Visualize your financial progress with intuitive charts and detailed breakdowns.",
+    "f2Title": "Direct Investing",
+    "f2Description": "Start new investments directly from the app, whether in stocks, mutual funds, or others.",
+    "f3Title": "Tracking investments",
+    "f3Description": "Monitor the performance of your investments (such as stocks, funds, and real estate) on a daily or monthly basis.",
+    "f4Title": "Simplified Budget Management",
+    "f4Description": "Easily set and monitor your budgets for different categories. Get helpful reminders and insights to stay on track.",
+    "f5Title": "Your bank accounts",
+    "f6Title": " and investments are safe."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is Mizan?",
+        "answer": "Mizan is a personal finance management app that helps you understand your financial health through detailed insights and easy-to-use tools."
+      },
+      {
+        "question": "How do I start using Mizan?",
+        "answer": "You can start using Mizan by downloading the app from the App Store or Google Play."
+      },
+      {
+        "question": "Can Mizan be used for free?",
+        "answer": "Yes, Mizan can be used for free. However, there may be premium features available for purchase."
+      },
+      {
+        "question": "Is Mizan secure and reliable?",
+        "answer": "Yes, Mizan takes the security and privacy of your financial data seriously. We use industry-standard encryption and security measures to protect your information."
+      },
+      {
+        "question": "Can I track my investments with Mizan?",
+        "answer": "Yes, you can track the performance of your investments, such as stocks, funds, and real estate, using Mizan."
+      },
+      {
+        "question": "What is the purpose of the app's Net Worth feature?",
+        "answer": "Our Net Worth feature helps you track your overall financial health by calculating the total value of your assets minus your liabilities, giving you a clear picture of your financial standing."
+      },
+      {
+        "question": "Can I link multiple bank accounts?",
+        "answer": "Yes, you can link multiple bank accounts from different institutions to get a comprehensive view of your finances in one place."
+      },
+      {
+        "question": "How is my data secured?",
+        "answer": "We use bank-level encryption and security measures to protect your data. Your sensitive information is encrypted and we never store your banking credentials."
+      },
+      {
+        "question": "How do I update my personal details?",
+        "answer": "You can update your personal details in the Settings section of your profile. Simply navigate to your profile and click on the Edit button."
+      },
+      {
+        "question": "What is two-factor authentication (2FA)?",
+        "answer": "Two-factor authentication adds an extra layer of security to your account. You can enable it in your security settings."
+      },
+      {
+        "question": "Can I set financial goals in the app?",
+        "answer": "Yes, you can set and track various financial goals like savings targets, debt repayment, or investment objectives through our goal-setting feature."
+      },
+      {
+        "question": "Will the app give me recommendations to save more?",
+        "answer": "Yes, our app provides personalized recommendations based on your spending patterns and financial habits to help you save more effectively."
+      },
+      {
+        "question": "How do I manage my subscriptions?",
+        "answer": "You can view and manage all your subscriptions in the Subscriptions section. Here you can track recurring payments and cancel or modify subscriptions."
+      },
+      {
+        "question": "Can I set reminders for subscription renewals?",
+        "answer": "Yes, you can set up notifications for upcoming subscription renewals to help you stay on top of your recurring payments."
+      },
+      {
+        "question": "How do I contact support if I encounter an issue?",
+        "answer": "You can reach our support team through the Help Center in the app, or by emailing support@example.com. We typically respond within 24 hours."
+      },
+      {
+        "question": "What do I do if I forget my password?",
+        "answer": "If you forget your password, click on the 'Forgot Password' link on the login page. We'll send you instructions to reset your password to your registered email address."
+      }
+    ]
+  },
+  "footer": {
+    "title": "In the <strong>Mizan</strong> app, you can take control of your financial future. It helps you understand your financial health through detailed insights and easy-to-use tools.",
+    "authorizedBy": "Authorized by",
+    "downloadNow": "Download the app now",
+    "followUs": "Follow us on",
+    "getItOn": "Get it on"
+  },
+  "ContactUs":{
+  "title": "Contact Us",
+  "name": "Name",
+  "namePlaceholder": "Enter your full name",
+  "email": "Email",
+  "emailPlaceholder": "Enter your email",
+  "message": "Message",
+  "messagePlaceholder": "Enter your message",
+  "send": "Send",
+  "sending": "Sending...",
+  "success": "Message sent successfully!",
+  "error": "An error occurred. Please try again."
+  }
+  ,
+  "home": {
+    "title": "Order anything with our AI Chef",
+    "subtitle": "No menus. Just tell the Chef Bot what you want and get it in seconds.",
+    "cta": "Start Order with AI"
+  },
+   "agent": {
+    "title": "Call our AI Chef and place your order",
+    "callAlt": "Start AI Call"
+  },
+   "callInProgress": {
+    "title": "You're now talking with the AI Chef",
+    "aiChefAlt": "AI Chef conversation illustration",
+    "endCallAlt": "End Call",
+    "muteAlt": "Mute microphone"
+  },
+    "callEnded": {
+    "title": "Call Ended",
+    "duration": "Duration",
+    "output": "Output",
+    "cost": "Call Cost",
+    "callAgain": "Call Again",
+    "callAlt": "Start new call",
+    "aiChefAlt": "AI Chef image"
+  }
+
+}
